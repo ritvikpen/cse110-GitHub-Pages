@@ -31,14 +31,14 @@ Here's one of the pictures I've taken:
 
 # Goals
 Some goals I've set for myself this quarter are:
-- [ ] Maintain or improve your current GPA
-- [ ] Read at least two books 
-- [x] Secure a summer position
-- [ ] Hit the gym at least 4 times a week 
-- [ ] Spent less time online or in front of a screen 
-- [ ] Spend more time relaxing and less time working 
-- [ ] Finish up editing your publication 
-- [ ] Start preparing for the MCAT 
+[ ] Maintain or improve your current GPA
+[ ] Read at least two books 
+[x] Secure a summer position
+[ ] Hit the gym at least 4 times a week 
+[ ] Spent less time online or in front of a screen 
+[ ] Spend more time relaxing and less time working 
+[ ] Finish up editing your publication 
+[ ] Start preparing for the MCAT 
 
 These goals are important to both my personal and professional aspirations and will ensure I continue to work towards graduate school while working towards a healthier and more satisfying lifestyle. 
 
